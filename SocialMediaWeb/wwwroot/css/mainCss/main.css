@@ -1,0 +1,115 @@
+img {
+    border-radius: 10px ;
+    margin-bottom: 20px ;
+}
+
+
+.img-1 {
+    width: 200px;
+    height: 200px ;
+    object-fit: cover ;
+}
+
+.img-2 {
+    width: 200px;
+}
+
+
+.btn-Create-User {
+    padding-left: 7px ;
+    padding-right: 7px ;
+    padding-top: 10px ;
+    padding-bottom: 10px ;
+
+    background-color: rgb(151, 47, 255) ;
+    border: none ;
+    border-radius: 7px ;
+
+    transition: background-color 0.5s , color 0.5s ;
+}
+
+.btn-Create-User-a {
+    font-size: 14px ;
+    font-weight: bold ;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0) ;
+    text-decoration: none ;
+    transition : color 0.5s ;
+}
+.btn-Create-User:hover {
+    background-color: black ;
+}
+.btn-Create-User-a:hover {
+    color: rgb(193, 47, 255) ; 
+}
+
+
+
+
+.btn-Show-User {
+    padding-left: 7px ;
+    padding-right: 7px ;
+    padding-top: 10px ;
+    padding-bottom: 10px ;
+
+    background-color: rgb(151, 47, 255) ;
+    border: none ;
+    border-radius: 7px ;
+
+    transition: background-color 0.5s ;
+}
+.btn-Show-User-a {
+    font-size: 14px ;
+    font-weight: bold ;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0) ;
+    text-decoration: none ;
+    transition : color 0.5s ;
+}
+.btn-Show-User:hover {
+    background-color: rgb(0, 0, 0);
+}
+.btn-Show-User-a:hover {
+    color : rgb(151 , 47, 255) ;
+}
+
+.btn-Create-Address {
+    padding-left: 7px ;
+    padding-right: 7px ;
+    padding-top: 10px ;
+    padding-bottom: 10px ;
+
+    background-color: rgb(151, 47, 255) ;
+    border: none ;
+    border-radius: 7px ;
+
+    transition: background-color 0.5s ;
+}
+.btn-Create-Address-a {
+    font-size: 14px ;
+    font-weight: bold ;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0) ;
+    text-decoration: none ;
+    transition : color 0.5s ;
+}
+.btn-Show-Address {
+    padding-left: 7px ;
+    padding-right: 7px ;
+    padding-top: 10px ;
+    padding-bottom: 10px ;
+
+    background-color: rgb(151, 47, 255) ;
+    border: none ;
+    border-radius: 7px ;
+
+    transition: background-color 0.5s ;
+}
+.btn-Show-Address-a {
+    font-size: 14px ;
+    font-weight: bold ;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0) ;
+    text-decoration: none ;
+    transition : color 0.5s ;
+}
